@@ -13,12 +13,12 @@
     <title>Calculating the Area of a Trapezoid in PHP - Maria Goemans</title>
   </head>
   <body>
-    <?php 
+    <?php
       echo "<h1>Calculating the Area of a Trapezoid in PHP with User Input</h1>";
       echo "<p>Welcome! This web page will take your input and use the dimensions you choose to calculate the area of a trapezoid. See the image below for the calculations we will be using.</p>";
     ?>
     <img src="./images/formulas.png">
-    <?php 
+    <?php
       echo "<h3>Your Input</h3>";
       echo "<p>Please fill in the form below to set the height and the lengths of sides a and b for a trapezoid. We will then calculate the area of the shape for you!</p>";
     ?>
