@@ -15,12 +15,12 @@ body {
 }
 
 p, h3, form {
-  font-family: "Arial", "Arial Narrow", sans-serif;
+  font-family: Arial, "Arial Narrow", sans-serif;
 }
 
 h1 {
   text-align: center;
-  font-family: "Arial Narrow", "Arial", sans-serif;
+  font-family: "Arial Narrow", Arial, sans-serif;
   color: white;
   background-color: #6b99d0;
   padding: 20px;
