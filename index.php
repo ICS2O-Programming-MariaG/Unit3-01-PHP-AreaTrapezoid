@@ -34,11 +34,11 @@
       ?>
       <!-- Form for user input -->
       <form action="./calculations.php" method="post" target="display-result">
-        <label for="height">Height of the trapezoid</label>
+        <label for="height">Height of the trapezoid (in cm)</label>
         <input type="float" name="height" placeholder="Height..."><br><br>
-        <label for="side-a">Length of side A</label>
+        <label for="side-a">Length of side A (in cm)</label>
         <input type="float" name="side-a" placeholder="Side A length..."><br><br>
-        <label for="side-b">Length of side B</label>
+        <label for="side-b">Length of side B (in cm)</label>
         <input type="float" name="side-b" placeholder="Side B length..."><br><br>
         <input type="submit" value="Calculate">
       </form>
